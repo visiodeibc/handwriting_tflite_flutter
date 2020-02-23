@@ -1,4 +1,0 @@
-#Sat Feb 08 20:08:35 KST 2020
-base.0=/Users/jakelee/dev/handwriting/handwritten_number_recognizer/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
