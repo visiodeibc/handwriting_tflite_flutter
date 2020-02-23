@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/handwritten_number_recognizer.iml" filepath="$PROJECT_DIR$/handwritten_number_recognizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/handwritten_number_recognizer_android.iml" filepath="$PROJECT_DIR$/android/handwritten_number_recognizer_android.iml" />
+    </modules>
+  </component>
+</project>
